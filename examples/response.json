@@ -1,0 +1,63 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": "001",
+        "profile": {
+          "name": "Sample A",
+          "city": "Lab City"
+        },
+        "stats": {
+          "total": 12
+        }
+      },
+      {
+        "id": "002",
+        "profile": {
+          "name": "Sample B"
+        },
+        "stats": {
+          "total": 0
+        }
+      },
+      {
+        "id": "001",
+        "profile": {
+          "name": "Duplicate A",
+          "city": "Lab City"
+        },
+        "stats": {
+          "total": 99
+        }
+      },
+      {
+        "profile": {
+          "name": "Missing identifier"
+        },
+        "stats": {
+          "total": 7
+        }
+      },
+      {
+        "id": "003",
+        "profile": {
+          "name": "اسم تجريبي",
+          "city": "مدينة تجريبية"
+        },
+        "stats": {
+          "total": 9
+        }
+      },
+      {
+        "id": "004",
+        "profile": {
+          "name": "=2+2",
+          "city": "Lab City"
+        },
+        "stats": {
+          "total": 4
+        }
+      }
+    ]
+  }
+}
